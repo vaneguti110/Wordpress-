@@ -1,0 +1,413 @@
+From the youtube video Andrew Allen: How To Make a WordPress Website | For Beginners | 2016
+https://www.youtube.com/watch?v=6RJaREKVnDA
+
+How to create a webpage wordpress nicer version using cPanel, QuickInstall:
+
+1. Same steps as the previous example od the other guy create host and domain and install wordpress.
+
+2. Then, install plugins: go to Dashboard of Wordpress, go to Plugins: Desactive all the plugins, and then, delete all.
+In the Dashboard of Wordpress, go to Plugins(are like apps into an iphone, android),
+Add New: -Black Studio TinyMCE Widget (Adds a new Visual Editor widget)Install and Activate
+	 -Contact Form 7(contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail 
+          contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering 
+          and so on)Install and Activate
+ 	 -Facebook(admins to promote their Pages and embed a simple feed of content from a Page into any WordPress blog)
+	  Install and Activate
+	 -Lightbox Plus Colorbox (permits users to view larger versions of images, simple 
+          slides shows, videos and content all in an overlay)Install and Activate
+	 -Meta Slider (easy to use wordpress slider plugin create seo optimazed responsive slideshows with Nivo Slider, 
+          Flex Slider, Coin slider and Responsive Slides)Install and Activate
+	 -Page builder by SiteOrigin(Build responsive page layouts using the widgets you know and love using this 
+	  simple drag and drop page builder.) Install and Activate
+	 -SiteOrigin Widget Bundle ( collection of all widgets, neatly bundled into a single plugin. 
+	  It's also a framework to code your own widgets on top of.)Install and Activate
+	 -Social media wigdet (WP MashSocial Wigdet Lite: A beautiful widget inspired by Mashable to be used in 
+	  sidebar, it allows you to add your Pinterest, G+ , Twitter , Facebook and Feeds Subscription in it)
+          Install and Activate.
+
+3. For the Theme, go to the Dashboard of Wordpress, go to Appearance, search Vantage.Install, Activate.
+
+4. Adding a page in Wordpress, for the pages, go to the Dashboard of Wordpress, go to Pages, 
+Add New Page: -Title: Contact, then click Publish on the right side of the page. 
+              -Title: Blog, then click Publish on the right side of the page.
+	      -Title: About Our Company, then click Publish on the right side of the page.
+ 	      -Title: Photo Gallery, then click Publish on the right side of the page.
+ 	      -Title: Services, then click Publish on the right side of the page.
+
+5. To see the progress of the website, go to Creativity at the top left side of the page next to the symbol WP, go to Visit 
+Site.
+
+6. Now, to modify the homepage: go to the Dashboard of Wordpress, go to Appearance, Home Page, Custom Home Page click at the
+top left side of the page ON, Save Home Page.
+Then, click refresh of the website WordPress, you will see now how it looks and all the links we need to modify.
+
+7. By default, the Custom Home Page, comes with a set of rows. We need to delete all of this. First, select the first row on the 
+top left and delete. Do the same procedure with the other two.
+After that, -Add Row, Add New Row:1, Insert at the end of the page.
+	    -Add Row, Add New Row:3, each one with 33,3 % size. Insert at the end of the page.
+	    -Add Row, Add New Row:2, each one with 50 % size. Insert at the end of the page.
+
+8. So, for the First Row:1 column, click on it, Add Widget, Add New Widget, then select Vantage Headline, click edit, in 
+Headline Eye catching headline of your choosing.
+Then, for the Second Row:3 column or division, click on the first leftside square. click widget, circle icon, then click 
+in the right side of the circle icon, duplicate two times. This two will go down the first row box.
+Then, you will move each circle icon box one in the middle of the row, and the othe right side of the second row. 
+All in the Second Row. Horizontal.
+
+9. Then, we want to add content on each little box of the circle icon, so go to the first in the left side of the second row. 
+Edit, 
+Circle Icon 1, Title: WordPress Tutorials For all areas of expertise
+               Text: The most up-to-date WordPress tutorials that offer help for those in need.
+	       Icon: put star
+	       Icon Background Color: ---
+	       More Text: Check Out Our Work
+	       More URL:/photo-gallery/
+then, click Done at the end of the right side of the page. Then, Save Home Page. 
+
+Circle Icon 2, Title: Learn How to Create Your Website
+               Text: Why pay a web developer thousands of dollar when you can create your own amazing website completely 
+	       free?.
+	       Icon: put dollar
+	       Icon Background Color: ---
+	       More Text: Check Out Our Page
+	       More URL:/about-our-company/ we put like this since when you look for the about our company page url online: 
+               creativitytutorials.com/about-our-company/ we need to put is the last part /about-our-company/ 
+then, click Done at the end of the right side of the page. Then, Save Home Page. 
+
+Circle Icon 3, Title: We're Here to Help
+               Text: Have any questions? Encounter a problem creating your website? Feel free to leave a comment and we'll
+               be happy to assist you!
+	       Icon: put gift
+	       Icon Background Color: ---
+	       More Text: Check Out Our Services Page
+	       More URL:/services/ 
+then, click Done at the end of the right side of the page. Then, Save Home Page. 
+
+10. Then, for the third Row: 2 column or division.
+Modify the first box of the left side, Add Widget, look for the SiteOrigin Image, Save.
+Now, we have two boxes, one called Text and the other called SiteOrigin Button.
+For the first box called Text, Title: Creativity is key to sucess
+                               Description: "jjdjjdjdjdjdjj"
+			       Check the box automatically add paragraphs at the end of the page. Then, Done.
+For the second box of the left side called SiteOrigin Button,
+				Button text: Learn More About Us 
+				Destination URL:/services/
+				Icon: look for the symbol arrow pointing right
+				Icon color: select black
+		     Make sure, Align: center, 
+				Button theme: Flat.
+				Button color: light blue #a8d6f4 
+				Text color:black   
+				Rounding: Very rounded, click Done, Save Home Page.
+
+For the second box of the right side, click on it, Edit, then Add Widget, look for the SiteOrigin Slider, click, Edit, 
+In SiteOrigin Slider, slider frames, click add, click arrow in the top leftside of the box, background video click add, 
+video, click arrow again.
+then, in Video URL look for the link you want to put in the site copy from youtube from the url httos:/yotube/jjj and paste.
+then, click Done at the end of the right side of the page. Then, Save Home Page. 
+ 
+To see the progress of the website, go to Creativity at the top left side of the page next to the symbol WP, go to Visit 
+Site. You will see all the row with the information entered.
+
+11. Go to the second box of the right side, click on it, Edit, on the right side called Row Styles, Theme, click top border 
+Color, put the same light blue #a8d6f4 code. Then, save, then, Save Home Page.
+
+12. Then, add the social media icon, go to the Dashboard of Wordpress, go to Appearance, Widgets, go to Sidebars, by default 
+it comes with some widgets, delete it by click on it each one, or by drag each one out of the sidebars it will delete it as 
+well. Then, add the social media icon widget, click on it, select footer, add widget, edit the widget in the footer in the 
+top right side, put Icon Alignment:centered, then add the social url like facebook, twitter, etc. then, click save, save Home 
+Page.
+
+13. Then, to edit the main image HD to put in the home page with text, need to look for the image online by typing 
+htttps:/unsplash.com, provide images HD for free to websites, look for the image you like, here he choose a image of a port 
+with water, click on the image, save image as vantageimage.jpeg downloaded, finish.
+Then, go to another tab and type picmonkey.com, website that allows to edit your images or pictures for free.
+Click on the page, then, on the top of the website, click Edit, look for the image downloaded, then, it would pop out a 
+message cancel it. So, in the left side of the page, look for Resize, click on it, change the size, 1200x800 px, maintain the 
+option check Keep proportions, click Apply. 
+Click in the left side of the page, Tt, Text, click on it, Add Text, font text Shadows into Light Two, strech out the text 
+from left to right and center it, pop out in the right side, a box to edit the text, click align center, type Creativity, 
+size text 144. Try to move the text more center.
+Then, click in the left side of the page, Crop, click on it, Actual size modify: 1080x420 (this is the specific size when you
+see an image online) then you choose which are to crop with the text, then, click Apply.
+When you are finishing editing, click at the top center of the image, save, quality: put Sean since its better quality, put 
+the name of the image: port beach, save to my computer.
+
+14. Go to the Dashboard of Wordpress, at the left side of the page look for Meta Slider, click on it, on the top select 
+create your first slideshow, click on it, add slide, select files, we need to upload the file we just created online of the
+image port beach, then on the down right side, click add to the slider. Then, settings on the right side click Flex Slider, 
+modify: Width 1080, Height 420, Theme select Vantage(flex), then, save.
+Then, go to Dashboard of Wordpress, Pages, go to Home Page, right click, on the right side of the page, go to Page Meta 
+Slider, select Slider: New Slider. Then, click Update.
+Then, click refresh of the website creativitytutorial.com WordPress, you will see now how it looks with the image-text and 
+all the links and social media widget but the website look cut down on the leftside and right side, so we want the website
+to embrace the whole page in order to do that we need to do the next step.
+
+15. To modify theme, go to the Dashboard of Wordpress, Appearance, Theme Settings, click on it, click on the tab Layout, 
+check the box for Responsive Layout Enabled, check the box for Enable Fitvids.js Enabled, Layout Bound: select Full width, 
+save settings. 
+Then, click refresh of the website creativitytutorial.com WordPress, you will see now how it looks with the image-text and 
+all the links and social media all embrace the whole page.
+
+16. To eliminate the arrows that are in the image of the home page wordpress, go to the Dashboard of Wordpress, Meta Slider, 
+on the right side of the page, Settings, look for arrows uncheck it, then Save.
+
+17. To create logo of the webpage, go to a page called logomakr.com, then click next on each pop out message until you 
+reach done. Then, click on the left side for the T icon, text, to create some text, and type Creativity. then we look for 
+the logo, is at the top left of the screen next to the search button, click on the six squares sign, that is the search for 
+logo, then look for a tree logo, click on it, then scroll next to the text, modify the size of the text and color of both the
+logo to white and text change the color some to light blue some to white. Then, go to the top right of the screen and click 
+save.
+
+18. To add the logo that was create it, go to the Dashboard of Wordpress, Appearance, Theme Settings, Logo Tab, Logo Image, 
+click on it, look for the image, select it, click set logo, then Save Settings.
+Then, click refresh of the website creativitytutorial.com WordPress, you will see the logo is in the top with the white space,
+but we want the logo next to tab where is said Home in the Menu Tab. So in order, to change to locatization of the logo, go
+to the Dashboard of Wordpress, Appearance, Theme Settings, Layout Tab, Masthered Layout, change instead of Default Mastered 
+to Logo in Menu, then Save Settings. Then, go to Logo Tab, check the Constrain Logo Height is check with a tild Yes, then 
+Save Settings. 
+ 
+19. Add more information in the Tab of Menu in About Our Company in the Wordpress site, go to the Dashboard of Wordpress, 
+Pages, then go to About Our Company, Edit, type information about the company, to put text in bigger than the rest go to 
+Toolbar Toogle, then change from Paragraph to Heading 2 and the text change to a bigger size. 
+Then, to add an image, look for Add image, select, browse for the image of choose, upload the image if you have it in the 
+computer, insert to page, then, click on the image put it in the left side of the text. Then add this paragraph at the end
+of the text: You can reach us by clicking here. Then, highlight over here then go to a sign that is like a chain link, to
+add a url link, click on it, type creativitytutorials.com/contact/ also, then check tild in a new tab, then Save. Then,
+update.
+
+20. Go to WordPress, where is Creativity instead of Dashboard go to Customize, then, go to the left side of the page, where
+is Static Front Page, Front page displays A static page, Front page Home page, and then, Posts page change from select to 
+Blog, Save and Publish. This post page to blog means everything you create something new in your website, it would 
+automatically update to your Blog. 
+
+21. Then, we need to add the facebook link in the page About Our company, go to Dashboard of Wordpress, Appearance, Widgets,
+then look for the Facebook Like Box, click it, select Sidebar, Add Widget, then you can put in Title: Stay Connected, 
+paste the url of the facebook page of the company, then, Save.
+
+22. Go to Dashboard of Wordpress, go to Posts, click on the Hello World delete it, trash. Then, click Add New, edit Add New
+Post Title: The Love of Rain, Description: type the text, Then Save. 
+Then, Add 2nd New Post, edit, Title: What Exactly Is A Promise Ring?  Description: type the text related., then, Save.
+Then, Add 3rd New Post, edit, Title: Why Developing Emotional Intelligence Is Important? Description: Text, Save.
+Then, Add 4rd New Post, edit, Title: Contagious Events: Tops Wedding Planners In Boston Description: Text, Save.
+then, when you refresh the page of the Blog Menu Tab, you will see all the information on it but it all looks not 
+organized, so in order to change that, we need to go to Dashboard of Wordpress, Appearance, Theme Settings, click on the Blog
+tab, click on Post Content instead of Full Post change to Post Excerpt, then click Save Settings. 
+
+Then, when you resfresh the Wordpress page, it looks nice and neat you have each post with a bit of introduction of each
+post instead of the whole information that is not so nice for the person to read.
+
+23. Organize the Menu of the website in Wordpress, in order to do that, go to Dashboard of Wordpress, Appearance, Menus, Edit
+Menus, Menu Name Type Main Navigation, Create Menu on the top right side, then, 
+Menu Structure, it shows like this 
+Home Page, 
+Services, 
+About Our Company, 
+Contact, 
+Home Page, delete this since it already one. 
+Photo Gallery, 
+Blog.
+then, scroll up or down the order of how you like to display in the actual Wordpress website Menu.  
+The current order after change,
+Home Page, 
+Services, 
+About Our Company, 
+Photo Gallery, 
+Blog,
+Contact
+then, Menu Settings click or check the option Theme locations in order to have the current order change in the menu.
+
+Optional: If you would like to have a tab that contains other post.
+Home Page, 
+Services,           ---> for instance, here i want services to contain about our company, photo gallery and blog
+   About Our Company,    You just move each box(About Our Company, Photo Gallery and Blog) a bit to right 
+   Photo Gallery, 
+   Blog,
+Contact
+click Save Menu on the top right.
+Then, when refresh the page, you have only three Tabs: Home Page, Services and Contact. In Services you have a drop-menu 
+			contains About Our Company, Photo Gallery,Blog. 
+Home Page, 
+Services,           
+   About Our Company,    
+   Photo Gallery, 
+   Blog,
+Contact
+
+24. If you want to add a page manually, go to Dashboard of Wordpress, Appearance, Menus, Edit Menus, in the left side where
+is Pages, Most recent, click on the page you want to add, it now, would appear into the Menu Name.
+
+25. If you see in the Menu of the website, there is one called Home Page, we need to change this name in order to proceed, go
+to Dashboard of Wordpress, Pages, click on Home Page Front Page, Edit in the title change from Home Page to Home, click on 
+Update. 
+Then, refresh the website now, now you can see all the changes in the Menu.
+
+26. Go to Dashboard of Wordpress, Pages, click on Services, Edit in the right side next to Visual and Text, click on Page 
+Builder, click on Add Row, 
+the 1st Row: 1 column.
+the 2nd Row: 2 column
+the 3rd Row: 1 column
+then this have to be this order, drag and move to order.
+
+Then, the 2nd Row, for the first box, click on it, Add Widget, find the Circle Icon. When, you get it, click on the Circle
+Icon, click Duplicate in the top right of the little box, 5 times, and move 3 of this Circle Icon box to the next box column
+of the right side of the 2nd Row. So, now each column has 3 Circle Icon.
+Then, click on the first box of Circle Icon on the left side of the column, click Edit, 
+Title: put Learn How To Create Your Own Website
+Text: put Why pay thousands of dollars to aweb developer when you can build your own website for free?
+Icon: look for mobile
+Icon Background Color: hex color #23bae0 
+if you don't know how to pick a color like that, go to google and search for hex color picker from www.w3schools.com, then, 
+pick a color, the selected color named #ff6699, that is a hex color, which is a pink color. 
+you copy a color you like and paste it in the Icon Background Color since only accept this type hex color.
+Icon position: put Left
+Icon Size: put Medium
+then, click Done.
+Do the same steps for the next Circle Icon,
+
+The 2nd Row, for the second box of the Circle Icon on the left side of the column, click Edit, 
+Title: put WordPress Support
+Text: put Run into a problem creating this website? Leave a comment and I'll get back to you as soon as possible.
+Icon: look for female
+Icon Background Color: leave the color blank
+Icon position: put Left
+Icon Size: put Medium
+then, click Done. 
+
+The 2nd Row, for the third box of the Circle Icon on the left side of the column, click Edit, 
+Title: put Share this Video
+Text: put Has the video helped out? please share it with your friends and family.
+Icon: look for Soccer Ball O
+Icon Background Color: hex color #23bae0
+Icon position: put Left
+Icon Size: put Medium
+then, click Done. 
+
+Then, The 2nd Row, click on the first box of Circle Icon on the right side of the column, click Edit, 
+Title: put WordPress Tutorials
+Text: put The most up-to-date WordPress tutorials around helping you find solutions to your problems. 
+Icon: look for heart
+Icon Background Color: hex color #23bae0 
+Icon position: put Left
+Icon Size: put Medium
+then, click Done.
+
+The 2nd Row, click on the second box of Circle Icon on the right side of the column, click Edit, 
+Title: put WordPress Themes
+Text: put Check out the latest and best WordPress themes available. 
+Icon: look for play
+Icon Background Color: hex color #23bae0 
+Icon position: put Left
+Icon Size: put Medium
+then, click Done.
+
+The 2nd Row, click on the third box of Circle Icon on the right side of the column, click Edit, 
+Title: put Subscribe, Thumbs Up, and Comment
+Text: put Has this video helped you out? If so, please subscribe, give a thumbs up, and leave a comment.
+Icon: look for Star
+Icon Background Color: blank color 
+Icon position: put Left
+Icon Size: put Medium
+then, click Done.
+
+Then, when you finalized, Update in top right side of Edit Page. 
+Then, when refreshed the page you can see there is the icon of facebook we don't want that there since distract the audience,
+we need to take it out, in order to do that, go to Dashboard of Wordpress, Pages, click on Services, on the right side where 
+is Page Attributes, Template, click on it, change from Default Template to Full Width Page (this option will disable the 
+sidebar of the facebook widget on this page)
+Click, Update in the right side of the page.
+Then, refresh the website and now it's gone the facebook icon when you click on the page Services.
+
+27. Enter information in the Photo Gallery Page, go to Dashboard of Wordpress, Pages, click on Photo Gallery, Edit 
+Photo Gallery, Add Media, Create Gallery, select the pictures you want, Create a New Gallery, then in top right side, where
+is said Gallery Settings Link to change from Attachment Page to Media File, Size put Medium, then instert Gallery., then 
+update.
+Top tip: when you are looking for pictures to put online in photo gallery try to resize or have the same size and quality.
+
+When, you refresh the page of Photo Gallery you see some pictures have caption, so we need to remove it, also we need to 
+remove the facebook icon as well.
+
+28. In order to remove the facebook icon, go to Dashboard of Wordpress, Pages, click on Photo Gallery, do a refresh if you
+click back to the page Dashboard, click Update, now you can see inside a set of numbers in the description that before 
+wasn't there. Now, go to right side of the page, Page Attributes, Template, change from Default Template to Full Width Page,
+click Update.
+When you refresh the Photo Gallery page, you can see all the photos now, you can click on one picture, it would pop out, you
+can move with the right arrow. Cool feature.
+
+29. In order to change the title or caption of the picture, go to Dashboard of Wordpress, Pages, click on Photo Gallery, 
+click on Visual on the right side, now you will see the pictures, before it was in text it was in the description part a code.
+Now, in the Visual, you click on the pictures since it is a group, click on Edit, pop out pencil sign, then you click on the 
+picture, look in the right side gallery settings, attachments settings title: has this Market wallpaper, so not worries, but 
+in the second picture it has title and caption the same Tropical Beach Desktop, you delete only in the caption since this 
+will show on the page if you leave it, click update gallery. click Update.
+When you refresh the website in the Photo Gallery page, the photos now don't have caption on it.
+
+30. Add information on the Contact Page, go to Dashboard of Wordpress, Pages, click on Contact, then look for Page Builder
+in the right side, Add Row, create Add New Row: 3 columns, Insert.
+		   Add Row, create Add New Row: 1 column, Insert
+                   Add Row, create Add New Row: 2 column, Insert.
+Then, in the First row,on the First column box of the left side, click on it, Add widget, look Visual Editor, click Edit, 
+Description: write Contact
+                   Phone: (777)444-2222 
+		   Email: andrew@gmail.com
+then, highlight all the text, click align center.Then, highlight over Contact click on Paragraph change to Heading 1, then, 
+click Done on the bottom right.
+
+Then, in the First row,on the Second column box of the left side, click on it, Add widget, look Visual Editor, click Edit, 
+Title: blank Description: write Office Hours
+			Weekdays: 8am-5pm
+        		Weekends: 12pm-5pm
+then, highlight all the text, click align center.Then, highlight over Office Hours click on Paragraph change to Heading 1, 
+then, click Done on the bottom right.
+ 
+Then, in the First row,on the Third column box of the left side, click on it, Add widget, look Visual Editor, click Edit, 
+Title: blank Description: write Location
+			4132 Ocean Avenue Drive
+			Miami, FL
+then, highlight all the text, click align center.Then, highlight over Office Hours click on Paragraph change to Heading 1, 
+then, click Done on the bottom right.
+
+When refresh the page of Contact, you see the Facebook Icon and the name Contact twice, you need to remove the Facebook Icon
+and the Contact title as well. 
+
+31. In order to remove the Facebook Icon and the Contact title, go to Dashboard of Wordpress, Pages, click on Contact, go to
+right side of the page, Page Attributes, Template, change from Default Template to Full Width Page, no Title, click Update. 
+Now, when you refresh the page of Contact, the content is gone. :)
+
+32. Need to add the google map and content, go to Dashboard of Wordpress, go to Contact, in the Shortcode, click on the 
+content, copy it, then go to Pages, go to Contact Page, Edit, select the 3rd Row on the left side bottom of the page, click, 
+add Widget, Visual Editor, click Edit, copy the content of the description, Done, Update in the page.
+Then, when you refresh the Contact page, you can see the form of the Contact, Name, email, subject, your message.
+
+33. Now if you want to change the email of the contact form, for instance when they fill all this information it would go to 
+the email you set up when you create the wordpress website usually, you can change this.
+Go to Dashborad of wordpress, go to Contact, Contact Forms, click on Contact Form 1, look for the Email Tab, then where it 
+said To example andrewallenschutter@gmail.com change to another email.
+
+34. Now to instal google maps, go to dashboard of wordpress, Pages, click on Contact, click on the 3rd Row of the bottom 
+right side of the page, add widget, look for text, then open google and type maps.google.com then type the location of 
+the company Clearwater Beach, Clearwater, FL, then try to zoom and move what do you want to display organize the point. 
+Then, click on the right bottom side of the page its like gear circle icon, next to yellow person, click share or embed map, 
+then click on th etab embed map, click next to medium, change to customize 700x435, copy the embed code.
+
+Then, go back to the Pages, Contact, click on the thrid Row of the bottom right side, Text, Edit, Description o body fill,
+paste the embed code, then Done, then you are now back to Edit Page, Contact, click on the back 3 Row of the leftside 
+highlight in blue, when you click on it, edit the Row, click on the middle of the 2 boxes, then, drag or move to left side 
+until the left side is 36.7% and the right row is 63,3%. Then, click Save, then, Update.
+
+Then, click on View the page of the Contact, you will see the two addition the contact form and the map.
+
+35. Then, go to Dashboard of wordpress, Pages, click on Contact, click on the 2nd Row: 3 columns, look for the right side 
+where is Theme, Bottom Border Color, put hex color light blue which #a8d6f4, click Save, Update. 
+Now, when we refresh the page we have a border who separate two areas with the light blue color.
+The area of the contact form and map with contact, office hours and location.
+
+36. Go to Dashboard of wordpress, Settings, General Settings, its display with this information
+Site Title: Creativity, 
+Tagline: Just a Small Business Website 
+
+When you open the website wordpress, in the tab of the website you see both of this text together.
+Creativity | Just a Small Business Website
+
+If you want to change the name of both Site and Tagline, do it , then, Save. Log out of the wordpress site.
+Then, open the website you just create in wordpress.  

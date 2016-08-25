@@ -1,0 +1,185 @@
+Youtube Video from James Stafford Called Wordpress Tutorial for Beginners
+http://websitesmadeeasy.tv/recomends/ProperWordPressSetup 
+
+How to build a website with WordPress and CPanel and QuickInstall.
+Steps:
+
+1. First install Wordpress in your computer, go to the internet and type 
+HostGator.com, select the plan Baby Plan monthly package. Then, you registered
+your domainname, take out the hosting addons, use the coupon savenowwithonepenny.
+
+2. You receive an email, over there you receive a username, password, cpanel link,
+open in it and put the username and password from the email you received, then enter.
+
+3.Then, you will see HostGator page, and look where is Software/Services and look for 
+QuickInstall. click it, then look for the left column where is WordPress in blogSoftware, 
+click on it. then, click continue to install wordpress.
+then you have to fill admin email(here you receive all information about the blog wordpress site), 
+blog title, admin user, first name, last name. Then, install. 
+Then, when you finish, you have then a link that you click but maybe it said an error because
+it haven been update to the current information of the site serenades, username, password(this is 
+the information to login in the wordpress dashboard).
+Then, you can look at your email you received the same information that you saw below, click in
+the link of the serenade wordpress/dashboard after that, you can start creating posts and entering 
+information.
+
+4. In the Dashboard of Wordpress, go to Appearance, go to Themes, for Install Themes, type business in 
+the search, choose the theme, install localbusiness theme. 
+
+5. In the Dashboard of Wordpress, go to Plugins, 
+you will see in installed plugins the WP Super Cache(its really good allows not reload the page if you 
+already been there, so your site is speed up).
+Add New Plugins for upgrade version:
+-All in One SEO (Search Engine Optimization online) when install scroll down you will see plugin status: click enabled,
+home title: this is the top information of the site so you put Serenades / Newport Beach CA / Orange County Landscape 
+Design Telephone XXX- put the phone if it's local business
+Description of the site
+Keywords: landscape, design, newport beach, orange county.
+then click upload information at the end of the site.
+
+*Example: when you google online first you see the title name of a website in blue Newport Beach Landscaping Company / 
+Tru Landscape, then the url, then the meta description of the site.
+settings
+
+-Google Analytics (to know how many people visit the profile)Activate plugin.
+-Google XML Sitemaps (This plugin will generate a special XML sitemap which will help search engines like Google, 
+Bing, Yahoo and Ask.com to better index your blog). Activate plugin
+-SEO Friendly Images (plugin which automatically updates all images with proper ALT and TITLE attributes for SEO purposes). 
+-gplus-author (to have an identity of the website)
+Go to settings, take out the box, Save. Then, we go to Users, New Profile, at the end look for the Google URL
+here you can copy your google plus account to associate to this wordpress page. In the website of the youtube person 
+http://websitesmadeeasy.tv, you can find the link to download this plugin.
+- WP Socializer (advanced plugin for inserting all kinds of Social bookmarking & sharing buttons. 
+It has super cool features to insert the buttons into posts, sidebars). Look online this plugin, then just go to the 
+dashboard, plugins, click upload, look for the file where it's downloaded, install., activate plugin.
+Go to Plugins, then go to this plugin WP Socializer, settings, scroll down until you see the button start using WP 
+Socializer, click on it.
+
+6. Update the Ping List (to update automated key websites like google bing yahoo to have new content fast by index and 
+ultimately improve). For this google WordPress Ping List 2013 and copy all the links, go to dashboard, settings, update
+services and here you paste all the links, click Save.
+
+7. In the Dashboard of Wordpress, go to Settings, General, delete the tagline, you can put the site title Newport Beach 
+Landscaping Company / Tru Landscape or leave it blank, update the rest of the information, date, email and then click 
+save.
+
+8. In the Dashboard of Wordpress, go to Settings, Permalinks, common settings, click the option post name, save.
+
+9. In the Dashboard of Wordpress, go to Appearance, Theme Options, where is the Local Business Theme PRO, upload a custom 
+logo, fill all the content of home page top settings, homepage feature area saved changes at the end of the page.
+
+10. Add a video of youtube in the site: go to Google online an search for a video of the Serenades en youtube, this is 
+good to have, since youtube videos are so engaged to the public. Go where it embed code, copy the link 
+http://yout.be/jdhdh, then go to homepage feature area saved in the section left feature heading for instance, save 
+all changes.
+
+11. How to add a video into youtube: go to the website of the youtube person http://websitesmadeeasy.tv, look in the 
+leftside for TV Enterprise Site, go to toolbar Module 11 Internet marketing, you find the links and videos how to do it. 
+Create an account in youtube and so on.
+
+12. In the Dashboard of Wordpress, go to Settings, Frameworks, add in Contact No. the number of the company.
+
+13. How to add google maps into wordpress: go to google and type Google Maps Wordpress Widget plugin, search, download, 
+save it. Then, go to the Dashboard of Wordpress, go to Plugins, Upload, browse and look for the link you downloaded google
+maps wordpress widget plugin, install and activate the plugin. Then, go to Dashboard of Wordpress, Appearance, Widgets, 
+then you will see the option Google Maps Widget. And then, bring the box Google Maps Widget to the right side of the page,
+put it in the third footer widget area, then add here the address Serenades Newport Beach CA ... Save. Close. Change the 
+map size 200 x 125 px.
+Refresh the website, now you can see in the right side at the end of the page the exact point where is the address of the 
+company using google maps.
+Then, go to Dashboard of Wordpress, Appearance, Widgets, then look for the box Calendar, move it into the First footer, 
+and look for Contact Us and move it into the Second footer. 
+
+14. In the Dashboard of Wordpress, go to Pages, Add New Page, Title: put About US Description: about the webpage. Then, 
+scroll down, where it said All in One SEO Pack, Title: put About us - 714 -XXX XXXX(optional number) Description: the same 
+as above of the webpage. Then, in the right side click update, save. 
+Refresh the website, now you can see the new page.
+
+15. In the Dashboard of Wordpress, go to Pages, Edit Page, in the right side Page Attributes, Template, change from Default
+Template to Full Template, Update. 
+
+16. How to add a image in the page, for instance About us: go to the Dashboard of Wordpress, go to Pages, Edit Page, in the 
+section of description there is an option called add media, click on it, select file, look for a photo or image you want to
+add in the section about us, upload, good idea to change the name of image Clear name so when they search online it's easy 
+to find the picture, changed the name to  Newport Landscaper, insert into the post.
+Then, click on the image, look for the left topside an image of little postcard, called edit image, then edit image open out,
+changed the alignment to right side, update. 
+Refresh the website, now you can see in the About us the image in the right side of the description.
+
+17. Add another page: go to the Dashboard of Wordpress, go to Pages, Add New Page, Title: Fountains Orange County 
+Description: what offers ... Then, scroll down, where it said All in One SEO Pack, 
+Title: put Fountains Orange County - 714 -XXX XXXX(optional number) 
+Description: the same as above of the webpage. Then, go to the right side of the page, Page Attributes, Template, change from
+Default Template to Full Template, Update. 
+Refresh the website, now you can see the new page.
+
+18. Add another page: go to the Dashboard of Wordpress, go to Pages, Add New Page, Title: Landscapes Lighting Orange County 
+Description: what offers ... Then, scroll down, where it said All in One SEO Pack, 
+Title: put Landscape Lighting Orange County - 714 -XXX XXXX(optional number) 
+Description: the same as above of the webpage. Then, go to the right side of the page, Page Attributes, Template, change from
+Default Template to Full Template, Update. 
+Refresh the website, now you can see the new page.
+
+19. Add another page: go to the Dashboard of Wordpress, go to Pages, Add New Page, Title: Services 
+Description: what offers ... Then, scroll down, where it said All in One SEO Pack, 
+Title: put Services - 714 -XXX XXXX(optional number) 
+Description: the same as above of the webpage. Then, go to the right side of the page, Page Attributes, Template, change from 
+Default Template to Full Template, Update. 
+Refresh the website, now you can see the new page.
+
+20. Change the way the tabs of the page are disclosed in the website, in the example the links are horizontal from left to 
+right:
+go to the Dashboard of Wordpress, go to Pages, Edit New Page Fountains Orange County, look for the right side, go to the 
+right side, Page Attributes, Parent, change from no parent to Services, Update. 
+Refresh the website, now you can see the new page.  
+Do the same steps to the page Landscape Lighting Orange County, 
+go to the Dashboard of Wordpress, go to Pages, Edit New Page Landscape Lighting Orange County, look for the right side, go to 
+the right side, Page Attributes, Parent, change from no parent to Services, Update. 
+Refresh the website, now you can see the only three tabs are Home, About us, Services. In the Tab Services: Fountains Orange 
+County and Landscape Lighting Orange County. This way the website looks neat and organized.
+
+21. Go to the Dashboard of Wordpress, go to Appearance, Theme Options, General Settings, go to Custom Favicom is the little 
+logo (that is in the same place as the title in the tab, always in the leftside of the tab) 
+go to Body Background (if you want to add a color or background outside of the page)
+Top Right Contact Details (if you want to add information on it)
+Refresh the website, now you can see the new page.  
+Tracking Code (if you want to add the code of Google analytics), if you add this feature, then all the visitors can see how 
+many visitors have been in the website, it's a great tool to have it!! :)
+ 
+22. How to link images to pages in the website, go to the Dashboard of Wordpress, go to Appearance, Theme Options, Slider 
+Options, in this area it's to link image to page related.
+
+23. How to put the content of three divided section of the end of the content:
+go to the Dashboard of Wordpress, go to Appearance, Theme Options, Homepage Feature Area, it's the same procedure as in 
+the number 13. 
+First Feature Description: Copy the information  
+First Feature Link: widget ..   
+
+24. How to change the Theme Stylesheet (content half of the webpage): go to the Dashboard of Wordpress, go to Appearance, 
+Theme Options, Styling Options, by default is set to blue, you can now change to whatever color you want, choose green, Save.
+
+25. To add social logos: go to the Dashboard of Wordpress, go to Appearance, Theme Options, Social Logos. 
+Just add the link to each social media twitter, facebook, etc.
+
+26. To add footer settings: go to the Dashboard of Wordpress, go to Appearance, Theme Options, Footer Settings
+Some people like to add at the end of the page content. 
+Example of the page wikipedia.org: 
+Privacy policy About Wikipedia
+Disclaimers
+Contact Wikipedia 
+Developers
+Cookie statement
+Mobile view
+
+27. To add SEO Options: go to the Dashboard of Wordpress, go to Appearance, Theme Options, SEO Options
+If you want to add more data and links associated to the site. In the example he prefer not to add nothing since the plugin
+All in One SEO contains it all. So, do not worry.
+
+ 
+ 
+
+
+ 
+
+
+
