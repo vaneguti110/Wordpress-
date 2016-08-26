@@ -4,5 +4,5 @@
 
 ###Steps to create a website using two types of styles:
 
--The first one building a simple version for a business website using plugins, business theme.  
--Second building a website with sophisticated version using plugins, widgets, themes, etc.  
+*The first one building a simple version for a business website using plugins, business theme.  
+*Second building a website with sophisticated version using plugins, widgets, themes, etc.  
